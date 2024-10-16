@@ -1,0 +1,16 @@
+@font-face {
+  font-family: 'Monofur';
+  src: url('/fonts/monof55.ttf') format('truetype');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Monofur';
+  src: url('/fonts/monof56.ttf') format('truetype');
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
