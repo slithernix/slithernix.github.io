@@ -2,26 +2,26 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:53995/services/</loc>
+    <loc>https://www.slithernix.com/services/</loc>
     <lastmod>2024-10-15T23:37:30-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53995/projects/</loc>
+    <loc>https://www.slithernix.com/projects/</loc>
     <lastmod>2024-10-15T23:36:04-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53995/products/</loc>
+    <loc>https://www.slithernix.com/products/</loc>
     <lastmod>2024-10-15T23:04:09-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53995/</loc>
+    <loc>https://www.slithernix.com/</loc>
     <lastmod>2024-10-15T21:23:06-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53995/about/</loc>
+    <loc>https://www.slithernix.com/about/</loc>
     <lastmod>2024-10-13T05:02:10-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53995/articles/</loc>
+    <loc>https://www.slithernix.com/articles/</loc>
     <lastmod>2024-10-12T21:38:26-04:00</lastmod>
   </url><url>
-    <loc>http://localhost:53995/categories/</loc>
+    <loc>https://www.slithernix.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:53995/tags/</loc>
+    <loc>https://www.slithernix.com/tags/</loc>
   </url>
 </urlset>
