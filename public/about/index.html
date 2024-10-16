@@ -41,7 +41,7 @@ Our Mission Our mission is to provide our clients with the expertise needed to n
   <link rel="stylesheet" href="http://localhost:1313/css/header.min.b6fb4423cf82a9f9d7abc9cd010223fa3d70a6526a3f28f8e17d814c06e18f9e.css">
 
   
-  <link rel="stylesheet" href="http://localhost:1313/css/main.min.f04606c9b7f058f8d9de711d6efc956aa94bd1570af2953dd4c8f796567850af.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/main.min.1d8be2dd1b5de9fdaed058c8c59fcf4485f36619574abfb47ed0cfda4812c16d.css">
 
   
   <link rel="stylesheet" href="http://localhost:1313/css/menu.min.83637a90d903026bc280d3f82f96ceb06c5fc72b7c1a8d686afb5bbf818a29f7.css">
@@ -59,7 +59,7 @@ Our Mission Our mission is to provide our clients with the expertise needed to n
   <link rel="stylesheet" href="http://localhost:1313/css/syntax.min.cc789ed9377260d7949ea4c18781fc58959a89287210fe4edbff44ebfc1511b6.css">
 
   
-  <link rel="stylesheet" href="http://localhost:1313/css/terminal.min.9e5749ecaf5892e0dba7c18c2a545b8f977927beccdaa371d10eff82fc3c7cbb.css">
+  <link rel="stylesheet" href="http://localhost:1313/css/terminal.min.736caf886baa67df630c4cde30fbdc5115122eb74c6246f15a31401344bfa2f0.css">
 
   
   <link rel="stylesheet" href="http://localhost:1313/css/terms.min.b81791663c3790e738e571cdbf802312390d30e4b1d8dc9d814a5b5454d0ac11.css">
@@ -67,7 +67,7 @@ Our Mission Our mission is to provide our clients with the expertise needed to n
 
 
 
-
+<link rel="stylesheet" href="http://localhost:1313/style.css">
 
 
 <link rel="shortcut icon" href="http://localhost:1313/favicon.png">
@@ -236,8 +236,9 @@ feel free to reach out to us via <a href="https://www.duckduckgo.com/">this form
   <div class="footer__inner">
     
       <div class="copyright">
-        <span>© 2024 <a href="https://www.slithernix.com/">SlitherNix Security LLC</a></span>
+        <span>© 2024 Powered by <a href="https://gohugo.io">Hugo</a></span>
     
+      <span>:: <a href="https://github.com/panr/hugo-theme-terminal" target="_blank">Theme</a> made by <a href="https://github.com/panr" target="_blank">panr</a></span>
       </div>
   </div>
 </footer>
@@ -250,7 +251,18 @@ feel free to reach out to us via <a href="https://www.duckduckgo.com/">this form
 <script type="text/javascript" src="/bundle.min.js"></script>
 
 
-
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+    const footer = document.querySelector('.footer__inner');
+    if (footer) {
+      footer.innerHTML = `
+        <div class="copyright">
+          <span>© 2024 <a href="https://www.slithernix.com/" target="_blank">SlitherNix Security LLC</a></span>
+        </div>
+      `;
+    }
+  });
+</script>
 
 
   

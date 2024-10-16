@@ -1,0 +1,12 @@
+<script>
+  document.addEventListener('DOMContentLoaded', (event) => {
+    const footer = document.querySelector('.footer__inner');
+    if (footer) {
+      footer.innerHTML = `
+        <div class="copyright">
+          <span>© {{ now.Year }} <a href="https://www.slithernix.com/" target="_blank">SlitherNix Security LLC</a></span>
+        </div>
+      `;
+    }
+  });
+</script>
