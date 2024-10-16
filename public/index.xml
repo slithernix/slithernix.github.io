@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>SlitherNix Security LLC</title>
-    <link>http://localhost:1313/</link>
+    <link>http://localhost:53995/</link>
     <description>Recent content on SlitherNix Security LLC</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 15 Oct 2024 21:23:06 -0400</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 15 Oct 2024 21:23:06 -0400</lastBuildDate><atom:link href="http://localhost:53995/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Services</title>
-      <link>http://localhost:1313/services/</link>
+      <link>http://localhost:53995/services/</link>
       <pubDate>Tue, 15 Oct 2024 23:37:30 -0400</pubDate>
       
-      <guid>http://localhost:1313/services/</guid>
+      <guid>http://localhost:53995/services/</guid>
       <description>&lt;p&gt;Coming Soon&lt;/p&gt;</description>
       <content>&lt;p&gt;Coming Soon&lt;/p&gt;
 </content>
@@ -20,10 +20,10 @@
     
     <item>
       <title>Projects</title>
-      <link>http://localhost:1313/projects/</link>
+      <link>http://localhost:53995/projects/</link>
       <pubDate>Tue, 15 Oct 2024 23:36:04 -0400</pubDate>
       
-      <guid>http://localhost:1313/projects/</guid>
+      <guid>http://localhost:53995/projects/</guid>
       <description>&lt;p&gt;Coming Soon&lt;/p&gt;</description>
       <content>&lt;p&gt;Coming Soon&lt;/p&gt;
 </content>
@@ -31,10 +31,10 @@
     
     <item>
       <title>Products</title>
-      <link>http://localhost:1313/products/</link>
+      <link>http://localhost:53995/products/</link>
       <pubDate>Tue, 15 Oct 2024 23:04:09 -0400</pubDate>
       
-      <guid>http://localhost:1313/products/</guid>
+      <guid>http://localhost:53995/products/</guid>
       <description>&lt;p&gt;Coming Soon&lt;/p&gt;</description>
       <content>&lt;p&gt;Coming Soon&lt;/p&gt;
 </content>
@@ -42,10 +42,10 @@
     
     <item>
       <title>About Us</title>
-      <link>http://localhost:1313/about/</link>
+      <link>http://localhost:53995/about/</link>
       <pubDate>Sun, 13 Oct 2024 05:02:10 -0400</pubDate>
       
-      <guid>http://localhost:1313/about/</guid>
+      <guid>http://localhost:53995/about/</guid>
       <description>&lt;h2 id=&#34;who-we-are&#34;&gt;Who We Are&lt;/h2&gt;
 &lt;p&gt;SlitherNix Security is a consultancy specializing in bespoke solutions for
 clients with unique security and privacy requirements. Our offerings include
@@ -74,14 +74,12 @@ feel free to reach out to us via &lt;a href=&#34;https://www.duckduckgo.com/&#34
     
     <item>
       <title>Articles</title>
-      <link>http://localhost:1313/articles/</link>
+      <link>http://localhost:53995/articles/</link>
       <pubDate>Sat, 12 Oct 2024 21:38:26 -0400</pubDate>
       
-      <guid>http://localhost:1313/articles/</guid>
-      <description>&lt;p&gt;FUCK YOU&lt;/p&gt;
-&lt;p&gt;Coming Soon&lt;/p&gt;</description>
-      <content>&lt;p&gt;FUCK YOU&lt;/p&gt;
-&lt;p&gt;Coming Soon&lt;/p&gt;
+      <guid>http://localhost:53995/articles/</guid>
+      <description>&lt;p&gt;Coming Soon&lt;/p&gt;</description>
+      <content>&lt;p&gt;Coming Soon&lt;/p&gt;
 </content>
     </item>
     
